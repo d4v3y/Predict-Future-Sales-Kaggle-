@@ -1,2 +1,2 @@
 # Predict-Future-Sales-Kaggle-
-Machine Learning project using RNN to predict the sales of products from a seller. 
+This project uses Kaggle’s – “Predict Future Sales” dataset (https://www.kaggle.com/c/competitive-data-science-predictfuture-sales/data). Using Recurrent Neural Networks (RNN) the connections between nodes allowed for a feedforward network. Easing the process of delivering an accurate prediction, with a single input source. The task was to predict the amount of sales and profit an item will produce given a specific shop.
